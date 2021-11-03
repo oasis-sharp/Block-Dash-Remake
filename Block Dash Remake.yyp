@@ -5,6 +5,8 @@
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
     {"id":{"name":"block","path":"objects/block/block.yy",},"order":1,},
     {"id":{"name":"arrow","path":"objects/arrow/arrow.yy",},"order":2,},
+    {"id":{"name":"apply_local_force_between","path":"scripts/apply_local_force_between/apply_local_force_between.yy",},"order":0,},
+    {"id":{"name":"mouse","path":"objects/mouse/mouse.yy",},"order":3,},
     {"id":{"name":"playerSpr","path":"sprites/playerSpr/playerSpr.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
