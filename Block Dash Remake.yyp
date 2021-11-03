@@ -1,8 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"arrowUpSpr","path":"sprites/arrowUpSpr/arrowUpSpr.yy",},"order":2,},
     {"id":{"name":"blockSpr","path":"sprites/blockSpr/blockSpr.yy",},"order":1,},
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
     {"id":{"name":"block","path":"objects/block/block.yy",},"order":1,},
+    {"id":{"name":"arrow","path":"objects/arrow/arrow.yy",},"order":2,},
     {"id":{"name":"playerSpr","path":"sprites/playerSpr/playerSpr.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
