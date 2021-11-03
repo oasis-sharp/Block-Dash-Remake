@@ -12,12 +12,8 @@ if(key_left){
 
 if(mouse_check_button_pressed(mb_left)){
 	
-	var launchDir = point_direction(x, y, mouse_x, mouse_y);
-	draw_text(x,y,launchDir);
-	var xDir = lengthdir_x(1000, launchDir);
-	var yDir = lengthdir_y(1000, launchDir);
-	
-	physics_apply_impulse(x, y, xDir,yDir);
+	apply_local_force_between(id, mouse);
+
 }
 
 
