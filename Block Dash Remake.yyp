@@ -1,11 +1,17 @@
 {
   "resources": [
+    {"id":{"name":"flipArrow","path":"objects/flipArrow/flipArrow.yy",},"order":4,},
     {"id":{"name":"arrowUpSpr","path":"sprites/arrowUpSpr/arrowUpSpr.yy",},"order":2,},
     {"id":{"name":"blockSpr","path":"sprites/blockSpr/blockSpr.yy",},"order":1,},
+    {"id":{"name":"camera","path":"objects/camera/camera.yy",},"order":5,},
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":15,},
     {"id":{"name":"block","path":"objects/block/block.yy",},"order":1,},
-    {"id":{"name":"arrow","path":"objects/arrow/arrow.yy",},"order":2,},
+    {"id":{"name":"upArrow","path":"objects/upArrow/upArrow.yy",},"order":2,},
+    {"id":{"name":"arrowFlipSpr","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},"order":3,},
     {"id":{"name":"apply_local_force_between","path":"scripts/apply_local_force_between/apply_local_force_between.yy",},"order":0,},
+    {"id":{"name":"bouncyBlock","path":"objects/bouncyBlock/bouncyBlock.yy",},"order":6,},
+    {"id":{"name":"bouncyBlockSpr","path":"sprites/bouncyBlockSpr/bouncyBlockSpr.yy",},"order":4,},
     {"id":{"name":"mouse","path":"objects/mouse/mouse.yy",},"order":3,},
     {"id":{"name":"playerSpr","path":"sprites/playerSpr/playerSpr.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -56,7 +62,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.5.589",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "Block Dash Remake",
