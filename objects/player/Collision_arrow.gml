@@ -1,1 +1,0 @@
-phy_speed_y=-jump_height;
