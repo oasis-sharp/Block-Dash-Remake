@@ -1,5 +1,5 @@
 /// @function apply_local_force_between(object_1, object_2);
-/// @param {index} object_1  Object to apply force to
+/// @param {real} object_1  Object to apply force to
 /// @param {real}  object_2  Object to apply force betweeen
 
 
