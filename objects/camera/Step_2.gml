@@ -7,4 +7,8 @@ else{
 	y = player.y
 }
 
+if(keyboard_check(ord("S"))){
+	screenshake(5);	
+}
+
 camera_set_view_speed(view_camera[0], 10 + (player.phy_speed_x/1.5), 10 + (player.phy_speed_y/1.5));
