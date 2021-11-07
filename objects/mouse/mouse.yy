@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "arrowUpSpr",
-    "path": "sprites/arrowUpSpr/arrowUpSpr.yy",
+    "name": "mouseSpr",
+    "path": "sprites/mouseSpr/mouseSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "utility",
+    "path": "folders/Objects/utility.yy",
   },
   "resourceVersion": "1.0",
   "name": "mouse",
