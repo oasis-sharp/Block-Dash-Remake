@@ -6,3 +6,4 @@ xaccel = 1.05;
 
 instance_create_layer(x ,y ,"Instances", mouse);
 instance_create_layer(x ,y ,"Instances", camera);
+instance_create_layer(x ,y ,"Instances", objectPlacer);
