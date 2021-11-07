@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"92a83e37-e97d-475f-8335-62bf712e012f","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"92a83e37-e97d-475f-8335-62bf712e012f","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},"LayerId":{"name":"fe5e3f26-06f0-420b-a7bb-bde7e19245aa","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"arrowFlipSpr","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},"resourceVersion":"1.0","name":"92a83e37-e97d-475f-8335-62bf712e012f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"92a83e37-e97d-475f-8335-62bf712e012f","path":"sprites/grid/grid.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"92a83e37-e97d-475f-8335-62bf712e012f","path":"sprites/grid/grid.yy",},"LayerId":{"name":"fe5e3f26-06f0-420b-a7bb-bde7e19245aa","path":"sprites/grid/grid.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"grid","path":"sprites/grid/grid.yy",},"resourceVersion":"1.0","name":"92a83e37-e97d-475f-8335-62bf712e012f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"arrowFlipSpr","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},
+    "spriteId": {"name":"grid","path":"sprites/grid/grid.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"63071ae0-1764-4f7d-96d6-795685ea8965","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92a83e37-e97d-475f-8335-62bf712e012f","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"55a1456e-4f97-4460-8eae-341743bc6e23","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92a83e37-e97d-475f-8335-62bf712e012f","path":"sprites/grid/grid.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"arrowFlipSpr","path":"sprites/arrowFlipSpr/arrowFlipSpr.yy",},
+    "parent": {"name":"grid","path":"sprites/grid/grid.yy",},
     "resourceVersion": "1.3",
-    "name": "arrowFlipSpr",
+    "name": "grid",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "arrowFlipSpr",
+  "name": "grid",
   "tags": [],
   "resourceType": "GMSprite",
 }
