@@ -31,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "effect tiles",
+    "path": "folders/Objects/room/effect tiles.yy",
   },
   "resourceVersion": "1.0",
   "name": "upArrow",
