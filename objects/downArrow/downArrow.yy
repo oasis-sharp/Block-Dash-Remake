@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "arrowUpSpr",
-    "path": "sprites/arrowUpSpr/arrowUpSpr.yy",
+    "name": "downArrowSpr",
+    "path": "sprites/downArrowSpr/downArrowSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -38,7 +38,7 @@
     "path": "folders/Objects/room/effect tiles.yy",
   },
   "resourceVersion": "1.0",
-  "name": "upArrow",
+  "name": "downArrow",
   "tags": [],
   "resourceType": "GMObject",
 }

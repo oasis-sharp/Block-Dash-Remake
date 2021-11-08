@@ -1,13 +1,18 @@
-var key_right = keyboard_check(vk_right); 
-var key_left = keyboard_check(vk_left);
+var key_right = keyboard_check_pressed(vk_right); 
+var key_left = keyboard_check_pressed(vk_left);
+var key_space = keyboard_check(vk_space);
 
+
+if(key_space){
+	phy_speed_x/=1.1;	
+}
 
 if(key_right){
-	phy_speed_x += 0.3;
+	phy_speed_x += 2;
 }
 
 if(key_left){
-	phy_speed_x -= 0.3;
+	phy_speed_x -= 2;
 }
 
 
