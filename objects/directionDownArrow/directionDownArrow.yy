@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "gravArrowUpSpr",
-    "path": "sprites/gravArrowUpSpr/gravArrowUpSpr.yy",
+    "name": "directionArrowDownSpr",
+    "path": "sprites/directionArrowDownSpr/directionArrowDownSpr.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "gravTileParent",
-    "path": "objects/gravTileParent/gravTileParent.yy",
+    "name": "directionTileParent",
+    "path": "objects/directionTileParent/directionTileParent.yy",
   },
   "physicsObject": true,
   "physicsSensor": true,
@@ -34,11 +34,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "gravity",
-    "path": "folders/Objects/room/effect tiles/gravity.yy",
+    "name": "direction",
+    "path": "folders/Objects/room/effect tiles/direction.yy",
   },
   "resourceVersion": "1.0",
-  "name": "gravUpArrow",
+  "name": "directionDownArrow",
   "tags": [],
   "resourceType": "GMObject",
 }

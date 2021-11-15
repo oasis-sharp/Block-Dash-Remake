@@ -34,8 +34,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "effect tiles",
-    "path": "folders/Objects/room/effect tiles.yy",
+    "name": "gravity",
+    "path": "folders/Objects/room/effect tiles/gravity.yy",
   },
   "resourceVersion": "1.0",
   "name": "gravDownArrow",

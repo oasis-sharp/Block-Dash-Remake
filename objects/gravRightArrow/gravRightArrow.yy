@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "gravArrowUpSpr",
-    "path": "sprites/gravArrowUpSpr/gravArrowUpSpr.yy",
+    "name": "gravArrowRightSpr",
+    "path": "sprites/gravArrowRightSpr/gravArrowRightSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -38,7 +38,7 @@
     "path": "folders/Objects/room/effect tiles/gravity.yy",
   },
   "resourceVersion": "1.0",
-  "name": "gravUpArrow",
+  "name": "gravRightArrow",
   "tags": [],
   "resourceType": "GMObject",
 }

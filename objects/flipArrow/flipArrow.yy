@@ -31,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "effect tiles",
-    "path": "folders/Objects/room/effect tiles.yy",
+    "name": "flip",
+    "path": "folders/Objects/room/effect tiles/flip.yy",
   },
   "resourceVersion": "1.0",
   "name": "flipArrow",
