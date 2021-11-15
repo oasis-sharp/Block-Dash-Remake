@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "arrows",
+    "path": "folders/Sprites/room tiles/effect tiles/arrows.yy",
   },
   "resourceVersion": "1.0",
   "name": "arrowFlipSpr",

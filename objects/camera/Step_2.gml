@@ -3,8 +3,8 @@ if(keyboard_check(vk_space)){
 	y = mouse.y;
 }
 else{
-	x = player.x;
-	y = player.y;
+	x = player.x+player.phy_speed_x*5;
+	y = player.y+player.phy_speed_y*5;
 }
 
 camera_set_view_speed(view_camera[0], 10 + (abs(player.phy_speed_x/1.5)), 10 + (abs(player.phy_speed_y/1.5)));

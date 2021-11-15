@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "effect tiles",
+    "path": "folders/Sprites/room tiles/effect tiles.yy",
   },
   "resourceVersion": "1.0",
   "name": "bouncyBlockSpr",

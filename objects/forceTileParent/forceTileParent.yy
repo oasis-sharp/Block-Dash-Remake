@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "effect tiles",
-    "path": "folders/Objects/room/effect tiles.yy",
+    "name": "parent",
+    "path": "folders/Objects/room/effect tiles/parent.yy",
   },
   "resourceVersion": "1.0",
   "name": "forceTileParent",

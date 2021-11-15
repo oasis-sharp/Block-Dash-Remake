@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "room tiles",
+    "path": "folders/Sprites/room tiles.yy",
   },
   "resourceVersion": "1.0",
   "name": "shallowSlopeSpr",
