@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "arrowUpSpr",
-    "path": "sprites/arrowUpSpr/arrowUpSpr.yy",
+    "name": "arrowRightSpr",
+    "path": "sprites/arrowRightSpr/arrowRightSpr.yy",
   },
   "solid": false,
   "visible": true,

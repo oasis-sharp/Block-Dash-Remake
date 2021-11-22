@@ -34,8 +34,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "effect tiles",
-    "path": "folders/Objects/room/effect tiles.yy",
+    "name": "force",
+    "path": "folders/Objects/room/effect tiles/force.yy",
   },
   "resourceVersion": "1.0",
   "name": "downArrow",

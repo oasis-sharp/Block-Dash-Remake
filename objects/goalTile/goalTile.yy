@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "directionArrowLeftSpr",
-    "path": "sprites/directionArrowLeftSpr/directionArrowLeftSpr.yy",
+    "name": "goalSpr",
+    "path": "sprites/goalSpr/goalSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -34,11 +34,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "direction",
-    "path": "folders/Objects/room/effect tiles/direction.yy",
+    "name": "effect tiles",
+    "path": "folders/Objects/room/effect tiles.yy",
   },
   "resourceVersion": "1.0",
-  "name": "directionLeftArrow",
+  "name": "goalTile",
   "tags": [],
   "resourceType": "GMObject",
 }

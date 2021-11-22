@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "arrowDownSpr",
-    "path": "sprites/arrowDownSpr/arrowDownSpr.yy",
+    "name": "arrowRightSpr",
+    "path": "sprites/arrowRightSpr/arrowRightSpr.yy",
   },
   "solid": false,
   "visible": true,

@@ -1,1 +1,1 @@
-draw_text(x,y, phy_speed);
+draw_text(120,120, phy_speed);
