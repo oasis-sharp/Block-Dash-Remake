@@ -1,6 +1,8 @@
 x_cap = 20;
 y_cap = 20;
 
+max_speed = round(sqrt(x_cap*x_cap+y_cap*y_cap)) // this is approximate and only used in visual calculations
+
 xaccel = 1.05;
 colour = 0;
 
