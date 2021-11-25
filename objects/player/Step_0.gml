@@ -58,6 +58,8 @@ if(abs(phy_speed_y) > y_cap){ // ensures speed doesn't go over limit
 image_blend = make_colour_hsv(colour, 255, 255);
 colour+=1;
 
+//effect_create_below(ef_smoke, phy_position_x-phy_speed_x*2, phy_position_y-phy_speed_y*2, 0.0001, make_colour_hsv(colour, 255, 255));
+
 if(colour > 255){ colour = 0; }
 
 

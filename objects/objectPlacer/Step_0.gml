@@ -11,6 +11,8 @@ if(mouse_check_button_pressed(mb_left)){
 	}
 }
 
+
+
 if(keyboard_check_pressed(ord("M"))){
 	image_alpha*=-1;
 }

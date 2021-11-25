@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"rightArrow","path":"objects/rightArrow/rightArrow.yy",},"order":1,},
     {"id":{"name":"outline_init","path":"scripts/outline_init/outline_init.yy",},"order":2,},
+    {"id":{"name":"particle","path":"sprites/particle/particle.yy",},"order":13,},
     {"id":{"name":"bktGlitch_inline","path":"scripts/bktGlitch_inline/bktGlitch_inline.yy",},"order":1,},
     {"id":{"name":"flipArrow","path":"objects/flipArrow/flipArrow.yy",},"order":0,},
     {"id":{"name":"slope","path":"objects/slope/slope.yy",},"order":3,},
@@ -27,7 +28,6 @@
     {"id":{"name":"gravArrowLeftSpr","path":"sprites/gravArrowLeftSpr/gravArrowLeftSpr.yy",},"order":5,},
     {"id":{"name":"directionArrowDownSpr","path":"sprites/directionArrowDownSpr/directionArrowDownSpr.yy",},"order":10,},
     {"id":{"name":"upArrow","path":"objects/upArrow/upArrow.yy",},"order":0,},
-    {"id":{"name":"f_std","path":"fonts/f_std/f_std.yy",},"order":0,},
     {"id":{"name":"outline_end","path":"scripts/outline_end/outline_end.yy",},"order":1,},
     {"id":{"name":"gravDownArrow","path":"objects/gravDownArrow/gravDownArrow.yy",},"order":0,},
     {"id":{"name":"shallowSlopeSpr","path":"sprites/shallowSlopeSpr/shallowSlopeSpr.yy",},"order":3,},
@@ -58,7 +58,6 @@
     {"id":{"name":"lavaSpr","path":"sprites/lavaSpr/lavaSpr.yy",},"order":1,},
     {"id":{"name":"detect_collision","path":"scripts/detect_collision/detect_collision.yy",},"order":6,},
     {"id":{"name":"shdBktGlitch","path":"shaders/shdBktGlitch/shdBktGlitch.yy",},"order":1,},
-    {"id":{"name":"fnt_monogram","path":"fonts/fnt_monogram/fnt_monogram.yy",},"order":1,},
     {"id":{"name":"gravUpArrow","path":"objects/gravUpArrow/gravUpArrow.yy",},"order":2,},
     {"id":{"name":"mouse","path":"objects/mouse/mouse.yy",},"order":1,},
     {"id":{"name":"mouseSpr","path":"sprites/mouseSpr/mouseSpr.yy",},"order":0,},

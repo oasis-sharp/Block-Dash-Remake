@@ -11,6 +11,9 @@ gravY = 150;
 
 outline_init();
 
+
+
+
 instance_create_layer(x ,y ,"Instances", mouse);
 instance_create_layer(x ,y ,"Instances", camera);
 instance_create_layer(x ,y ,"Instances", objectPlacer);
