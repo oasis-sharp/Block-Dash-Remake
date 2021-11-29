@@ -13,6 +13,9 @@ if(mouse_check_button_pressed(mb_left) and place_meeting(x,y,placeableTile)){
 
 
 
-if(keyboard_check_pressed(ord("M"))){
-	image_alpha*=-1;
+if(camera.build != 1){
+	image_alpha=-1;
+}
+else{
+	image_alpha=1
 }

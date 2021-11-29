@@ -63,6 +63,7 @@
     {"id":{"name":"gravUpArrow","path":"objects/gravUpArrow/gravUpArrow.yy",},"order":2,},
     {"id":{"name":"mouse","path":"objects/mouse/mouse.yy",},"order":1,},
     {"id":{"name":"placeableSpr","path":"sprites/placeableSpr/placeableSpr.yy",},"order":5,},
+    {"id":{"name":"draw_text_outline","path":"scripts/draw_text_outline/draw_text_outline.yy",},"order":7,},
     {"id":{"name":"mouseSpr","path":"sprites/mouseSpr/mouseSpr.yy",},"order":0,},
     {"id":{"name":"gravRightArrow","path":"objects/gravRightArrow/gravRightArrow.yy",},"order":3,},
     {"id":{"name":"__init_global","path":"scripts/__init_global/__init_global.yy",},"order":2,},

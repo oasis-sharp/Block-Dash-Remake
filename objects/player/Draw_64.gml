@@ -1,1 +1,1 @@
-draw_text(120,120, phy_speed);
+draw_text(32,32,"BETA - GAMEPLAY AND GRAPHICS NOT FINAL");
