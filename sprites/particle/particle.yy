@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"particle","path":"sprites/particle/particle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "particle",
     "tags": [],
     "resourceType": "GMSequence",

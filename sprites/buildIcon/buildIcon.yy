@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"buildIcon","path":"sprites/buildIcon/buildIcon.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "buildIcon",
     "tags": [],
     "resourceType": "GMSequence",

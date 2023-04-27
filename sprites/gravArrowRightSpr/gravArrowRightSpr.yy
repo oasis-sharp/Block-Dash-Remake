@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"gravArrowRightSpr","path":"sprites/gravArrowRightSpr/gravArrowRightSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "gravArrowRightSpr",
     "tags": [],
     "resourceType": "GMSequence",

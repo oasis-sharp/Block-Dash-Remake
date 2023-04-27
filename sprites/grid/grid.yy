@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"grid","path":"sprites/grid/grid.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "grid",
     "tags": [],
     "resourceType": "GMSequence",

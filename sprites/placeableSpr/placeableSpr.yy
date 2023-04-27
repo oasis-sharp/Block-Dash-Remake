@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"placeableSpr","path":"sprites/placeableSpr/placeableSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "placeableSpr",
     "tags": [],
     "resourceType": "GMSequence",

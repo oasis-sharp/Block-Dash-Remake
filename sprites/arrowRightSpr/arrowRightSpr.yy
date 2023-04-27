@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"arrowRightSpr","path":"sprites/arrowRightSpr/arrowRightSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "arrowRightSpr",
     "tags": [],
     "resourceType": "GMSequence",

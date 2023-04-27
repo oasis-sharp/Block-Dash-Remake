@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"directionArrowRightSpr","path":"sprites/directionArrowRightSpr/directionArrowRightSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "directionArrowRightSpr",
     "tags": [],
     "resourceType": "GMSequence",

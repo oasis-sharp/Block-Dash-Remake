@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"lavaSpr","path":"sprites/lavaSpr/lavaSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "lavaSpr",
     "tags": [],
     "resourceType": "GMSequence",

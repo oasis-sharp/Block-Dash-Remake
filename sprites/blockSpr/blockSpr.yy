@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"blockSpr","path":"sprites/blockSpr/blockSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "blockSpr",
     "tags": [],
     "resourceType": "GMSequence",

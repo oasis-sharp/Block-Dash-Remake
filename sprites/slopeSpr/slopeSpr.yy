@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"slopeSpr","path":"sprites/slopeSpr/slopeSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "slopeSpr",
     "tags": [],
     "resourceType": "GMSequence",

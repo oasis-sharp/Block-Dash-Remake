@@ -5,8 +5,8 @@ function list_collision(objectId, list, xOffset, yOffset){
 	with(objectId){
 		while(len > 0){
 			
-			var col = instance_place(x+xOffset,y+yOffset,ds_list_find_value(objectId, len-1))
-			return col
+			var col = instance_place(x+xOffset,y+yOffset,ds_list_find_value(objectId, len-1));
+			return col;
 		}
 		
 		len-=1;

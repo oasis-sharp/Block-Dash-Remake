@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"goalSpr","path":"sprites/goalSpr/goalSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "goalSpr",
     "tags": [],
     "resourceType": "GMSequence",

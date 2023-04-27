@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"bouncyBlockSpr","path":"sprites/bouncyBlockSpr/bouncyBlockSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "bouncyBlockSpr",
     "tags": [],
     "resourceType": "GMSequence",

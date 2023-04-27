@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"directionArrowDownSpr","path":"sprites/directionArrowDownSpr/directionArrowDownSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "directionArrowDownSpr",
     "tags": [],
     "resourceType": "GMSequence",

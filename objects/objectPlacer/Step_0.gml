@@ -1,4 +1,3 @@
- 
 x = mouse.x-16;
 y = mouse.y-16;
 

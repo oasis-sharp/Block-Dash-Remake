@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"arrowUpSpr","path":"sprites/arrowUpSpr/arrowUpSpr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "arrowUpSpr",
     "tags": [],
     "resourceType": "GMSequence",
